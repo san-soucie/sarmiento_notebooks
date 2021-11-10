@@ -1,0 +1,7 @@
+pandas
+holoviews
+bokeh
+matplotlib
+numpy
+jupyter
+hvplot
