@@ -5,3 +5,8 @@ matplotlib
 numpy
 jupyter
 hvplot
+panel
+geopy
+param
+jupyter_bokeh
+pre-commit
