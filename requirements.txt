@@ -1,5 +1,5 @@
 pandas
-holoviews
+holoviews[all]
 bokeh
 matplotlib
 numpy
@@ -10,3 +10,4 @@ geopy
 param
 jupyter_bokeh
 pre-commit
+PyQt5
